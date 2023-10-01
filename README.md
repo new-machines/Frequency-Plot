@@ -1,4 +1,4 @@
-# October-Project
+# Frequency-Plot
 
 The general purpose of these files is to allow the user to plot a time-trend of some particular activity, e.g. running or 
 
